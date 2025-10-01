@@ -1,23 +1,23 @@
-.html{
-    background-color: #547;
+html{
+    background-color: rgb(237, 142, 237);
 }
 
 .title-color{
-    color: #047
+    color: #747
 }
 
 .main-title{
-    color: #947
+    color: rgb(93, 4, 93)
 }
 
 .global-nav-color{
-    color:#087;
-    background-color: #987;
+    color:rgb(188, 130, 188);
+    background-color: rgb(223, 12, 223);
 }
 
 .local-nav-color{
-    color: #097;
-    background-color: #967;
+    color: rgb(223, 12, 223);
+    background-color: rgb(188, 130, 188);
 }
 
 .border-list{
@@ -25,5 +25,5 @@
     border-style: dashed;
     border-width: 4px;
     padding: 10px;
-    background-color: #747;
+    background-color: rgb(198, 184, 198);
 }
