@@ -1,0 +1,29 @@
+.html{
+    background-color: #547;
+}
+
+.title-color{
+    color: #047
+}
+
+.main-title{
+    color: #947
+}
+
+.global-nav-color{
+    color:#087;
+    background-color: #987;
+}
+
+.local-nav-color{
+    color: #097;
+    background-color: #967;
+}
+
+.border-list{
+    list-style-type: none;
+    border-style: dashed;
+    border-width: 4px;
+    padding: 10px;
+    background-color: #747;
+}
